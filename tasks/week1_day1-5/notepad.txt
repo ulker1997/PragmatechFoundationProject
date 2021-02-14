@@ -1,3 +1,6 @@
-#git nedir
-#github nedir
-#git ile github elaqesi
+#2github nedir
+#3git nedir
+#3git ile github elaqesi
+#4internet,Hosting,IP adres,Domen
+#4web sehife yaratmaq detallari
+#5html girish
