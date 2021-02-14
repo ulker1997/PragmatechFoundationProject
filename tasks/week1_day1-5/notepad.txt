@@ -1,0 +1,3 @@
+#git nedir
+#github nedir
+#git ile github elaqesi
