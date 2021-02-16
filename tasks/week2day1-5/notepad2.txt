@@ -1,0 +1,11 @@
+		BIRINCI^GUN
+
+#html strukturun qurulmasi
+#id&class tag ferqleri
+#html&css birlesdirme linki
+#wireframe ile ish
+
+	TAPSHIRIQ
+#layihe sechimi
+#layihe formunu doldurmaq
+#templament tapmaq
