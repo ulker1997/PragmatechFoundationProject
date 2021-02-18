@@ -9,3 +9,17 @@
 #layihe sechimi
 #layihe formunu doldurmaq
 #templament tapmaq
+
+
+		IKINCI GUN
+#padding
+#margin
+#border
+#displey flex
+#justify-content
+#span i
+#developer tools
+
+		TAPSIRIQ
+1 div ile bayraq
+div ile ucbucaq
