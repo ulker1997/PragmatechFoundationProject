@@ -1,4 +1,34 @@
 body{
-background-color: rgb(231, 226, 156);   
-
+    margin: 0px;
 }
+
+#header{
+/* widht 100px */
+    font font-family:inherit;  
+}
+.header-container{
+display: flex;
+justify-content: space-around;
+
+
+    border: 1px solid green;
+    margin: 0px auto;
+}
+.header-iconsocial{
+margin-top: 16px;
+}
+
+.header-menu{  
+}
+ ul{
+      padding-inline-start: 0px;
+     list-style-type:none;   
+     display: flex;
+     
+ }
+     
+
+ .header-iconname{
+margin-top:16px;
+
+ }
