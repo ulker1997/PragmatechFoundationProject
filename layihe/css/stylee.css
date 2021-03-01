@@ -1,4 +1,6 @@
 body{
+font-family: inherit;
+font-size: 16px;
 line-height: 1.5;
 margin: 0px;
 padding: 0px;}
@@ -45,6 +47,9 @@ background-image: url("../img/bg.jpg");
 background-position: cover; }
 .image-container{
 padding-left: 330px;}
+.col-5 img{
+border-radius: 5px;
+}
 .image-icon i{
 padding-right: 15px;
 padding-top: 20px;}
@@ -68,12 +73,23 @@ display: flex;}
 padding: 0px 40px;}
 /* image end */
 /* about  start */
+.about-item ul{
+margin: 10px 0px;
+
+}
+.about-item p{
+     margin: 0px;
+}
 #about{
 /* border: 1px solid green; */
 padding: 70px 40px 0px 40px ;}
+.li2{
+padding-right: 200px;
+}
 .container{
 /* text-align: center; */
-width: 60%;
+border: 1px solid yellow;
+/* width: 50%; */
 height: auto;
 margin-left: auto;
 margin-right: auto;}
@@ -87,10 +103,6 @@ margin: 75px 0px 30px  0px;}
 .header-h2{
 margin-right:390px;
 }
-.h6{
-     text-transform: capitalize;
-    font-weight: 500;
-}
 .col-6 image {
 background-position: cover;}
 .about-item caption{
@@ -103,6 +115,7 @@ padding: 10px 0px;
 text-decoration: none;
 list-style: none;}
 .about-item  button {
+padding: 0px;
 width: 160px;
 height: 40px;
 background-color:#f21e4e;
@@ -110,20 +123,26 @@ color: white;
 text-decoration: none;
 border: none;
 border-radius: 5px;}
+.about-item p{
+     margin-top: 0px;
+}
 .about-item button i{
 margin-right: 8px;}
 .col-5{
 object-fit: cover;}
+.col-7 h3{
+     margin: 0px;
+}
 .col {
 display: flex;
 justify-content: space-between;}
-.col-7{
-margin-left: 90px;}
+/* .col-7{
+margin-left: 90px;} */
 .list{
 display: flex;
 justify-content: space-between;}
 .col-2 i{
-padding-left: 35px;
+padding-left: 50px;
 display: flex;
 text-align: center;
 margin-bottom: 15px;
@@ -146,15 +165,151 @@ display: flex;
 justify-content:space-between;}
 .col-6 {   
 }
-.timeline{
-border: 1px solid rgb(156, 151, 151);
+
+    
+/* border: 1px solid rgb(156, 151, 151); */
 /* border radius :50%; */
 /* text-shadow: red;
 box-shadow: red; */}
-.item{
+/* .timeline::after {
+content: '';
+position: absolute;
+width: 1px;
+background-color:#f21e4e;
+top: 0;
+bottom: 0;
+margin-left: 0px;}
+.timeline::after{
+content: '';
+position: absolute;
+width: 1px;
+background-color:#f21e4e;
+top: 0;
+bottom: 0;
+margin-left: 0px;} */
+.content{
+padding-left: 40px;}
+.timeline{
+margin: 0 auto;
+position: relative;
+padding: 20px;}
+.timeline-container{
+position: relative;}
 
-}
+
+
+/* .timeline-container::after{
+content: '';
+position: absolute;
+width: 15px;
+height: 15px;
+right: 497px;
+background-color:#f21e4e;
+border: 1px solid #f21e4e;
+border-radius: 50%;
+bottom: 110px;
+z-index: 1;} */
+ 
 /* about end */
 /* services start */
+.h6{
+     margin-top: 0px;
+}
+
+.circle{
+     
+     width: 80px;
+     height: 80px;
+     background-color: transparent;
+     border-radius: 50%;
+     margin: auto;
+     border: 1px solid #f21e4e;
+text-align: center;}
+.circle h2{
+     text-align: center;
+    color:#f21e4e;
+     font-weight:700px;
+}
+.services-text{
+     text-align: center;
+}
+.services-item{
+
+     background-color: #f8f9fa;
+     padding-top: 15px;
+     border-radius: 10px;
+     /* margin-right: 20px; */
+     margin-top: 20px;
+     width: 350px; }
+.col-4 img{
+width:350px;
+height:345px;  }
+
+/* .col-4{
+      background-color: #f8f9fa;
+     border-radius: 10px;
+     margin-right: 20px;
+     margin-top: 20px;
+     width: 350px; 
+} 
+
 
 /* services end */
+
+
+/* works start */
+.works-item:hover img{
+    background:rgba(0, 0, 0, .5) ; }
+
+
+.works-item image{
+     z-index:5;}
+.overlay{
+     height: 100%;
+     width: 100%;
+     background: rgba(0,0,0,.5);
+     position: absolute;
+     top: 0px;
+     left: 0px;
+     z-index: 2;}
+.works-item{
+     z-index:1;}
+
+
+
+
+/* works end */
+
+/* contact start */
+
+.contact-item h2{
+     margin-top: 0px;
+}
+
+.contact-item button{
+
+     margin: 7px;
+     width: 160px;
+height: 40px;
+background-color:#f21e4e;
+color: white;
+text-decoration: none;
+border: none;
+border-radius: 5px;}
+
+.col-6 input{
+     margin: 7px;
+      border: 1px solid red;
+     width:475px;
+     height: 35px;
+     border-radius: 5px;
+}
+.col-6 textarea{
+     margin: 7px;
+     width: 475px;;
+     height: 120px;
+}
+.col-6 i{
+
+     margin: 10px;
+}
