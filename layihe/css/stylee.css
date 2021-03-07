@@ -149,8 +149,8 @@ text-decoration: none;
 list-style: none;}
 .about-item  button {
 padding: 0px;
-width: 160px;
-height: 40px;
+width: 190px;
+height: 46px;
 background-color:#f21e4e;
 color: white;
 text-decoration: none;
@@ -205,6 +205,7 @@ padding-left: 10px;}
 .works-item{
     position: relative;
 }
+
 .works-item:hover img{
 transform: scale(1.1);}
 .works-item img{
@@ -229,13 +230,15 @@ text-align: center;}
 .circle h2{
 text-align: center;
 color:#f21e4e;
-font-weight:700px;}
+}
+
 .services-text{
+    border-radius: 10px;
 text-align: center;}
 .services-item{
 background-color: #f8f9fa;
 padding: 15px 0px;
-border-radius: 10px;
+
 /* margin-right: 20px; */
 margin-top: 20px;
 width: 350px; }
@@ -244,7 +247,27 @@ width:350px;
 height:345px;  }
 /* services end */
 
+/* blog */
+.mainbox img{
+    width: ;
+    height: ;
+    max-width: 100%;
+    height: auto;
+}
+.innerbox{
+    box-shadow: 0px 5px 20px 0px rgb(69 67 96 / 10%);
+    background-color: white;
+    position: relative;
+    margin: -50px 20px auto 20px;
+    padding: 20px;
+    border-radius: 5px;
+}
+.innerbox title{
 
+line-height: 1.5;
+font-weight: 500;
+}
+/* blog end */
 
 
 
