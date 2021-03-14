@@ -10,11 +10,11 @@ LINK(https://medium.com/@ulkr010297/proqramla%C5%9Fd%C4%B1rma-dill%C9%99rinin-in
 
 
 #week5day1-layihede duzelisler etdim
-transform-translate
-overflow hidden
-hover
-transition duration
-widht%
+1transform-translate
+2overflow hidden
+3hover
+4transition duration
+5widht%
 
 
 
