@@ -9,7 +9,7 @@ LINK(https://medium.com/@ulkr010297/proqramla%C5%9Fd%C4%B1rma-dill%C9%99rinin-in
 <a href="https://medium.com/@ulkr010297/proqramla%C5%9Fd%C4%B1rma-dill%C9%99rinin-inki%C5%9Faf-tarixi-v%C9%99-inki%C5%9Fafa-t%C9%99sir-ed%C9%99n-amill%C9%99r-c0be03631f6a">MEQALE-LINK</a>
 
 
-.....week5day1-layihede duzelisler etdim
+#week5day1-layihede duzelisler etdim
 transform-translate
 overflow hidden
 hover
@@ -19,7 +19,7 @@ widht%
 
 
 
-.....week5day2
+#week5day2
 1.herflertranslator ve assembler nedir?
     ASSEMBLER-asagi seviyyeli proqramlasdirma dilidir yeni insan diline az uygunlasmis.
     TRANSLATOR-proqramlasdirma dillerini masin diline tercume edir.
@@ -36,7 +36,7 @@ widht%
 
 
 
-.....week5day4
+#week5day4
 1Javascript operatorlar haqqinda umumi melumat elde etmek
 2Javascript 7
 3prompt metodu vasitesi ile ekrandan daxil edilen iki ədədin cəmini (a+b=c) olaraq yazdıran 4proqramın alqoritmini yazmaq
@@ -44,7 +44,7 @@ widht%
 6Hər alqoritm addımının mütləq şəkildə dəqiq nəticəsi olmalıdır
 7Alqorimin addımlarını yazarkən hansı Javascript mövzularının öyrənilməsinə ehtiyac olduğunun siyahısını çıxardın
 
-...FLASK FRAMEWORK
+#FLASK FRAMEWORK
 Jinja template nədir? Necə istifadə olunur?
       phyton ucun tasarim motorudur.bir nece insanin ferqli mekanlardan bir layihe uzerinde rahat islemesi ucun elverislidir.
 Database migration nədir necə istifadə olunur?
