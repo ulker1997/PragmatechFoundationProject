@@ -50,7 +50,7 @@ list-style: none;
 text-decoration: none;
 color: black;
 margin: 10px 0px;}
-.ul li:hover a{
+ul li:hover a{
 color: #f21e4e;}
 
 
@@ -82,6 +82,7 @@ padding-bottom: 230px;}
 .image-container button:hover{
 background-color: rgb(52, 52, 77);}
 .image-container button{
+transition-duration: 500ms;
 width: 160px;
 height: 40px;
 background-color:#f21e4e;
