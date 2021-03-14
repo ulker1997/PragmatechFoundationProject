@@ -45,12 +45,12 @@ LINK(https://medium.com/@ulkr010297/proqramla%C5%9Fd%C4%B1rma-dill%C9%99rinin-in
 7 Alqorimin addımlarını yazarkən hansı Javascript mövzularının öyrənilməsinə ehtiyac olduğunun siyahısını çıxardın
 
 #FLASK FRAMEWORK
-### Jinja template nədir? Necə istifadə olunur?
+1. Jinja template nədir? Necə istifadə olunur?
       phyton ucun tasarim motorudur.bir nece insanin ferqli mekanlardan bir layihe uzerinde rahat islemesi ucun elverislidir.
-Database migration nədir necə istifadə olunur?
+- Database migration nədir necə istifadə olunur?
       Verilenler bazaasinin kocurulmesidir.guncelleme
-Flask Forms nədir? Necə istifadə olunur?
-Flask layihəsinin folder ve fayl strukturunu necə optimallaşdıra bilərik?
-Flask Blueprint nədir? Necə istifadə olunur?
+-Flask Forms nədir? Necə istifadə olunur?
+- Flask layihəsinin folder ve fayl strukturunu necə optimallaşdıra bilərik?
+- Flask Blueprint nədir? Necə istifadə olunur?
 
 
