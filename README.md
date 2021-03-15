@@ -1,7 +1,6 @@
 <a href="file:///C:/Users/Admin/Desktop/foundation42/layihe/index.html">LAYIHE-LINK</a>
 
 
-
 .....week4day7
 meqale-PROQRAMLASDIRMA DILLERI
 LINK(https://medium.com/@ulkr010297/proqramla%C5%9Fd%C4%B1rma-dill%C9%99rinin-inki%C5%9Faf-tarixi-v%C9%99-inki%C5%9Fafa-t%C9%99sir-ed%C9%99n-amill%C9%99r-c0be03631f6a)
