@@ -38,7 +38,6 @@ LINK(https://medium.com/@ulkr010297/proqramla%C5%9Fd%C4%B1rma-dill%C9%99rinin-in
 
 # week5day4
 - Javascript operatorlar haqqinda umumi melumat elde etmek
-- Javascript 7
 - prompt metodu vasitesi ile ekrandan daxil edilen iki ədədin cəmini (a+b=c) olaraq yazdıran 4proqramın alqoritmini yazmaq
 - Alqoritmin hər addımını yazmadan öncə bunu javascript vasitəsi ilə nece reallaşdıracağınızı düşünün
 - Hər alqoritm addımının mütləq şəkildə dəqiq nəticəsi olmalıdır
