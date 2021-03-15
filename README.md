@@ -20,8 +20,8 @@ LINK(https://medium.com/@ulkr010297/proqramla%C5%9Fd%C4%B1rma-dill%C9%99rinin-in
 
 
 # week5day2
-- herflertranslator ve assembler nedir?
-    ASSEMBLER-asagi seviyyeli proqramlasdirma dilidir yeni insan diline az uygunlasmis.
+- translator ve assembler nedir?
+    ASSEMBLER-asagi seviyyeli proqramlasdirma dilidir yeni insan diline az uygunlasmis.Aşağı səviyyəli proqramlaşdırma dillərində hər operatora bir maşın əmri uyğun gəlir. Bu dildə yazılan proqram az yer tutur və tez yerinə yetirilir. Aşağı səviyyəli dillərdən sistem proqramçılar istifadə edir.
     TRANSLATOR-proqramlasdirma dillerini masin diline tercume edir.
 - Reqem ve ededlerin 2 li say sistemine tercume olunmasi bilirik.Bes hərflər ve simvollar binary code-a nece tercume olunur?
     Herfler ve simvollar 1-9arasi reqemlere cevrilir.daha sonra 0ve 1ler seklinde kodlasdirilir.
