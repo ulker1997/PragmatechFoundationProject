@@ -9,6 +9,7 @@ display: flex;
 justify-content: space-between;
 margin: 15px 0px;
 
+
 }
 
 .col-1{
@@ -46,4 +47,8 @@ margin: 15px 0px;
    }
    .col-12{
     width: calc(100%/12*12);   
+   }
+
+   .m-t{
+       margin-top: 15px;
    }
