@@ -28,11 +28,13 @@ border-radius: 50%;
   height: 100vh;
   width: 100px;
   z-index: 1;
-  position: fixed;}
+  position: fixed;
+}
 .header-container{ 
   padding-top: 50px;
   height: 100vh;
-  text-align: center;}
+  text-align: center;
+}
 .logo{
   font-weight: 450;
   position: absolute;
@@ -46,7 +48,8 @@ border-radius: 50%;
   margin: auto;
   font-weight: 500;
   line-height: 40px;
-  font-size: 18px;}
+  font-size: 18px;
+}
 .header-left ul{
   list-style-type: none;
   display: flex;
@@ -55,8 +58,6 @@ border-radius: 50%;
   width: 50px;
   height: 85vh;
 }
-
-
 ul li a{
   color: #454545;
   font-weight: 500;   
@@ -67,8 +68,8 @@ ul li a{
   justify-content: center;
   list-style: none;
   text-decoration: none;
-
-  margin: 20px 0px;}
+  margin: 20px 0px;
+}
 ul li:hover a{
   list-style-type: circle;
   color: #f21e4e;
@@ -85,20 +86,28 @@ ul li:hover a{
   object-fit: cover;
 }
 .image-container{
-  display: flex;
+  padding-left: 300px;
+  height: 100vh;
+  height: 100%;
+   /* display: flex;
   flex-direction: column;
-  align-items: center;
-  /* position: absolute;
+  align-items: center;  */
+ /* position: absolute;
   top: 30px;
   left: 0px;
 transform: translateX(110%); */
 } 
+.image-icon{
+   padding-right:320px;
+  padding-top: 30px;
+  margin-bottom: 200px; 
+}
 .image-icon i{
   padding-right: 15px;
   padding-top: 20px;
 }
 .image-text{
-  padding: 110px 0px; 
+ padding: 110px 0px; 
 }
 .image-container button:hover{
   background-color: rgb(52, 52, 77);
@@ -117,7 +126,7 @@ margin: 30px 0px 100px 0px;
   padding-right: 10px;
 }
 .image-info{
-  padding-bottom: 20px;
+  margin-top: 70px;
   display: flex;
 }
 .image-p{
