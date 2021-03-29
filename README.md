@@ -1,6 +1,5 @@
 # <a href="file:///C:/Users/Admin/Desktop/foundation42/layihe/index.html">LAYIHE-LINK</a>
 [https://preview.themeforest.net/item/mariam-personal-portfolio-template/full_screen_preview/26057321?_ga=2.218736799.704653774.1613628172-1191480574.1612938344](layihe)
-layihelink(file:///C:/Users/Admin/Desktop/foundation42/layihe/index.html)
 
 
 # week4day7
