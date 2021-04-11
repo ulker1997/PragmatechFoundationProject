@@ -13,7 +13,6 @@
 </head>
 
 <body>
-
 <!-- header start -->
 <div class="header-left">
     <div class="header-container">
@@ -35,7 +34,7 @@
         </div>
     </div>
 </div>
- <!--  header end -->
+<!--  header end -->
 <section id="Home">
     <!-- image start -->
     <div class="image">
@@ -46,15 +45,15 @@
                 <i class="fab fa-twitter"></i>
                 <i class="fab fa-behance"></i>
             </div>
-                <!-- image-text start -->
+            <!-- image-text start -->
             <div class="image-text">
                 <div>Hi There,</div>
                 <h1>I Am a Developer</h1> 
                 <div>Lorem ipsum dolor sit amet consectetur adipisicing pretium <br>lacus. </div>
                 <p><button><i class="fas fa-user"></i>More About Me</button></p>
             </div>  
-                <!-- image-text end -->
-                <!-- image-info start -->
+            <!-- image-text end -->
+            <!-- image-info start -->
             <div class="image-info">
                 <div class="image-e">
                     <div><b>Email</b></div>
@@ -76,7 +75,7 @@
 <!-- image end -->
 
 <!-- main start -->
-<div class="main">
+<div class="">
     <!-- about start -->
     <section id="about">
         <div class="container">
@@ -302,18 +301,19 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-4 col-md-6 col-sm-12 col-lg-4">
+                <div class="col-4 col-md-6 col-sm-12 col-lg-4" >
                     <div class="works-image">
-                        <img src="img/1.jpg"  alt="">
+                        <img src="img/1.jpg"  alt="" onclick="showBigImage(this)">
                     </div>
                     <div class="works-text"> 
                         <div>Graphic Design</div>
                         <i class="fas fa-external-link-alt"></i>
                     </div>
+                   
                 </div>
                 <div class="col-4 col-md-6 col-sm-12 col-lg-4">
                     <div class="works-image">
-                        <img src="img/2.jpg" alt=""> 
+                        <img src="img/2.jpg" alt="" onclick="showBigImage(this)"> 
                     </div>
                     <div class="works-text"> 
                         <div>PSD Template Design</div>
@@ -322,7 +322,7 @@
                 </div>
                 <div class="col-4 col-md-6 col-sm-12 col-lg-4">
                     <div class="works-image">
-                        <img src="img/3.jpg" alt="">
+                        <img src="img/3.jpg" alt="" onclick="showBigImage(this)">
                     </div>
                     <div class="works-text">
                         <div>Mobile Application</div>
@@ -331,7 +331,7 @@
                 </div>
                 <div class="col-4 col-md-6 col-sm-12 col-lg-4">
                     <div class="works-image">
-                        <img src="img/4.jpg" alt="">
+                        <img src="img/4.jpg" alt="" onclick="showBigImage(this)">
                     </div>
                     <div class="works-text"> 
                         <div>Graphic Design</div>
@@ -340,7 +340,7 @@
                 </div>
                 <div class="col-4 col-md-6 col-sm-12 col-lg-4">
                     <div class="works-image">
-                        <img src="img/5.jpg" alt=""> 
+                        <img src="img/5.jpg" alt="" onclick="showBigImage(this)"> 
                     </div>
                     <div class="works-text"> 
                         <div>Mobile Application</div>
@@ -349,16 +349,22 @@
                 </div>
                 <div class="col-4 col-md-6 col-sm-12 col-lg-4">
                     <div class="works-image">
-                        <img src="img/6.jpg" alt="">
+                        <img src="img/6.jpg" alt="" onclick="showBigImage(this)">
                     </div>
                     <div class="works-text"> 
                         <div>PSD Template Design</div>
                         <i class="fas fa-external-link-alt"></i>
                     </div>
-                </div>    
+                </div>  
             </div>
         </div>
     </section>
+    <div class="overlay">
+                    <div class="close" onclick="closeOverlay(this)">
+                        <i class="fas fa-times"></i>
+                    </div>
+                    <img src="img/6.jpg" alt="">  
+         </div> 
     <!-- works end -->
 
     <!-- clients start -->

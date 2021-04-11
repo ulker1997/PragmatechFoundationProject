@@ -1,0 +1,23 @@
+.slider{
+    position: relative;
+    overflow: hidden;
+    border: 5px solid red;
+    width: 1000px;
+    height: 700px;
+}
+.slide-content{
+    transition: all .3s ease;
+}
+.slide img{
+    object-fit: cover;
+    width: 1000px;
+    height: 600px;   
+}
+.slide-content{
+    display: flex;
+    width: 1000px;
+    height: 600px;
+}
+.slide-controls{
+
+}
