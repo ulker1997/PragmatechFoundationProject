@@ -1,5 +1,5 @@
 function closeOverlay(elem) {
-    document.main.removeChild(elem.parentElement)
+    document.body.removeChild(elem.parentElement)
  }
 function showBigImage(elem) {
    let overlayContent=`
@@ -10,5 +10,5 @@ function showBigImage(elem) {
    <img src="${elem.getAttribute('src')}" alt=""onclick="showBigImage(this)">  
  </div> 
    `
-   document.main.innerHtml+=overlayContent
+   document.body.innerHtml+=overlayContent
  }
